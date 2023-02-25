@@ -4,62 +4,62 @@
             "sys": { "id": "1" },
             "fields": {
                 "title": "Burton black & white",
-                "price": 10.99,
+                "price": 1100,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto1.webp" } } }
             }
         },
         {
             "sys": { "id": "2" },
             "fields": {
-                "title": "king panel bed",
-                "price": 12.99,
+                "title": "Burton Doggy Style",
+                "price": 1000,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto2.webp" } } }
             }
         },
         {
             "sys": { "id": "3" },
             "fields": {
-                "title": "single panel bed",
-                "price": 11.99,
+                "title": "Burton Kids Surf Style",
+                "price": 1111.99,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto3.webp" } } }
         }
         },
         {
             "sys": { "id": "4" },
             "fields": {
-                "title": "twin panel bed",
-                "price": 22.99,
+                "title": "Burton Flower Dark",
+                "price": 1022.99,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto4.webp" } } }
         }
         },
         {
             "sys": { "id": "5" },
             "fields": {
-                "title": "fridge",
-                "price": 88.99,
+                "title": "Burton Fat Pandi",
+                "price": 988.99,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto5.webp" } } }
         }
         },
         {
             "sys": { "id": "6" },
             "fields": {
-                "title": "dresser",
-                "price": 32.99,
+                "title": "Burton Puppy",
+                "price": 2032.99,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto6.webp" } } }
         }
         },
         {
             "sys": { "id": "7" },
             "fields": {
-                "title": "couch",
-                "price": 45.99,
+                "title": "Burton Sunset Kiss",
+                "price": 745.99,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto7.webp" } } }
         }
         },
         {
             "sys": { "id": "8" },
             "fields": {
-                "title": "table",
+                "title": "Burton Rockable",
                 "price": 33.99,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto8.webp" } } }
         }
@@ -67,9 +67,65 @@
         {
             "sys": { "id": "9" },
             "fields": {
-                "title": "chair",
-                "price": 45.99,
+                "title": "Burton Wesnesday",
+                "price": 3245.99,
                 "image": { "fields": { "file": { "url": "./images/tablas/producto9.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "10" },
+            "fields": {
+                "title": "Burton Xtreme",
+                "price": 633.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto10.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "11" },
+            "fields": {
+                "title": "Burton Now",
+                "price": 733.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto11.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "12" },
+            "fields": {
+                "title": "Burton Luna",
+                "price": 833.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto12.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "13" },
+            "fields": {
+                "title": "Burton Newest",
+                "price": 1233.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto13.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "14" },
+            "fields": {
+                "title": "Burton 2000",
+                "price": 2133.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto14.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "15" },
+            "fields": {
+                "title": "Burton L",
+                "price": 333.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto15.jpg" } } }
+        }
+        },
+        {
+            "sys": { "id": "16" },
+            "fields": {
+                "title": "Burton Last",
+                "price": 1133.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto16.jpg" } } }
         }
         }
     ]

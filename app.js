@@ -1,9 +1,23 @@
+Swal.fire({
+    title: 'Are you ready to check out our high tech new boards?',
+    width: 600,
+    padding: '3em',
+    color: '#716add',
+    background: '#fff url(/images/trees.png)',
+    backdrop: `
+        rgba(0,0,123,0.4)
+        url("/images/nyan-cat.gif")
+        left top
+        no-repeat
+    `
+})
+
 //TODO\\ VARIABLES
 const cartBtn = document.querySelector(".cart-btn")
 const closeCartBtn = document.querySelector(".close-cart")
 const clearCartBtn = document.querySelector(".clear-cart")
 const cartDOM = document.querySelector(".cart")
-const cartOpen = document.querySelector(".cart-open") //cart overlay
+const cartOpen = document.querySelector(".cart-open")
 const cartItems = document.querySelector(".cart-items")
 const cartTotal = document.querySelector(".cart-total")
 const cartContent = document.querySelector(".cart-content")
@@ -73,7 +87,6 @@ class UI {
                 event.target.disabled = true
                 //GET PRODUCT FROM PRODUCTS
                 let cartItem = { ...Storage.getProduct(id),amount: 1 }
-                
                 //ADD PRODUCT TO THE CART
                 cart = [...cart,cartItem]
                 //SAVE CART IN LOCAL STORAGE
@@ -206,10 +219,8 @@ class Storage {
 document.addEventListener("DOMContentLoaded", () => {
     const ui = new UI()
     const products = new Products()
-
     //SETUP APP
     ui.setupApp()
-
     //GET ALL PRODUCTS
     products.getProducts().then(products => {
         ui.displayProducts(products)
