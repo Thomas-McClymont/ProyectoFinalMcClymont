@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "Burton black & white",
+                "price": 10.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto1.webp" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "king panel bed",
+                "price": 12.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto2.webp" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "single panel bed",
+                "price": 11.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto3.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "twin panel bed",
+                "price": 22.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto4.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "fridge",
+                "price": 88.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto5.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "dresser",
+                "price": 32.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto6.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "couch",
+                "price": 45.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto7.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "table",
+                "price": 33.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto8.webp" } } }
+        }
+        },
+        {
+            "sys": { "id": "9" },
+            "fields": {
+                "title": "chair",
+                "price": 45.99,
+                "image": { "fields": { "file": { "url": "./images/tablas/producto9.webp" } } }
+        }
+        }
+    ]
+}
